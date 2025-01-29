@@ -4,7 +4,7 @@
 
 This application serves as a credits Rest API for a fictive banking organization. 
 
-This project is authored upon request by Mehmet Oğuzhan Özavar and submitted to Ing Hubs. The project is mainly for educational purposes and licenced under the terms of the MIT license. For any questions, please contact Oğuzhan at hanoguz@gmail.com.
+This project is authored by Mehmet Oğuzhan Özavar. The project is mainly for educational purposes and licenced under the terms of the MIT license. For any questions, please contact Oğuzhan at hanoguz@gmail.com.
 
 <br>
 
